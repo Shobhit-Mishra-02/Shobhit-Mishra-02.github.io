@@ -259,7 +259,7 @@ body {
 .mid-section h2,
 .mid-section p,
 .mid-section div {
-  width: 450px;
+  width: 95%;
   margin: auto;
 }
 
@@ -542,6 +542,12 @@ footer ul li:hover {
   .footer-icons {
     flex-direction: row-reverse;
     justify-content: space-between;
+  }
+
+  .mid-section h2,
+  .mid-section p,
+  .mid-section div {
+    width: 450px;
   }
 }
 
